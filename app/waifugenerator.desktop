@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Waifu Generator
+Exec=.local/bin/waifugenerator/waifugenerator
+Icon=.local/bin//waifugenerator/icon.png
+Type=Application
+Categories=Utility;
